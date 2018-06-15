@@ -24,6 +24,7 @@ A bad joke in block quotes:
 
 > So the guy says, “In that case, better make it a double.”
 
+---
 
 * this is in a bulleted list
 * so is this
@@ -39,14 +40,10 @@ A bad joke in block quotes:
 | table    | made | using |
 | Markdown | as   | well  |
 
+---
 
 **I'm bold text!**
 
 *I'm italicized text!*
 
 ~~I'm strikethrough text!~~
-
-
-There is a horizontal line between this text...
----
-...and this text.
