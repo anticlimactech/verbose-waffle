@@ -17,10 +17,13 @@ while(!asleep){
 }
 ```
 
-A programming joke in block quotes:
+A bad joke in block quotes:
 > A guy walks into a bar and asks for 1.014 root beers.
+
 > The bartender says, “I’ll have to charge you extra, that’s a root beer float”.
+
 > So the guy says, “In that case, better make it a double.”
+
 
 * this is in a bulleted list
 * so is this
@@ -30,12 +33,20 @@ A programming joke in block quotes:
 2. This is the second item
 3. And this is the third
 
-| Markdown | Can    | Make |
-|----------|--------|------|
-| nifty    | tables | and  |
-| stuff    | as     | well |
+
+| Here     | is   | a     |
+|----------|------|-------|
+| table    | made | using |
+| Markdown | as   | well  |
+
 
 **I'm bold text!**
+
 *I'm italicized text!*
+
 ~~I'm strikethrough text!~~
+
+
+There is a horizontal line between this text...
 ---
+...and this text.
